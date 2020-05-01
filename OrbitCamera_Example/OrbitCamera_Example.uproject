@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "Example Project for Orbit Camera System",
+	"Plugins": [
+		{
+			"Name": "OrbitCameraSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/MyProductNumber1234"
+		}
+	]
+}
